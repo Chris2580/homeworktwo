@@ -1,0 +1,14 @@
+﻿body {
+	color: white;
+	background-color: #000;
+	font-family: "楷体" ;
+	font-size: 50pt;
+}
+p	{
+		text-align: center;
+		color: orange;
+}
+p.shalu {
+		color: green;
+	
+}

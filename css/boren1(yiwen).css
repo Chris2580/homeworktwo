@@ -1,0 +1,109 @@
+@charset "utf-8";
+
+/* @media only screen and (min-width:XXXpx)
+{
+	
+} 响应式设计*/
+
+body{
+
+	background-image:url(../img/beijing11.jpg) ;
+	background-size:cover ;
+	background-repeat: no-repeat ;
+	margin:0px ;
+
+}
+.BT1{
+	position:absolute ;
+	left: 25% ;
+	width:50%;
+	
+}
+
+.BT2{
+	position:relative;
+	margin-top: 25% ;
+	left: 30% ;
+	width: 40% ;
+
+}
+
+img.MY{
+	position:absolute ;
+	margin-top:12% ;
+	left: 40.5% ;
+	width:20% ;
+	
+}
+
+img.qiu{
+	position:fixed;
+	width:16%;
+	margin-top:18%;
+	left:43%;	
+	z-index: 1;
+	
+	
+}	
+
+img.shuimen{
+	position:absolute;
+	margin-top:80%;
+	left:27.5%;
+	width: 50% ;
+	
+}
+
+img.zilaiye{
+	position:absolute;
+	margin-top:145%;
+	left:27.5%;
+	width: 40% ;
+	
+}
+
+#NR{
+	position:absolute;
+	margin-top:144%;
+	left:25%;
+	width: 50%;
+	font-size:15px ;
+	text-align: center;
+}
+
+img.mingren{
+	position:absolute;
+	margin-top:218%;
+	left:38.5%;
+	width: 27% ;
+	
+}
+
+img.boren{
+	position:absolute;
+	margin-top:300%;
+	left:0%;
+	width: 100% ;
+}
+
+#song{
+	position:absolute;
+	z-index:10;
+	top: 0px ;
+	right: 0px ;
+	width: 100% ;
+}
+
+#one{
+	margin-top:75% ;
+	margin-left:27% ;
+	width:50%;
+	z-index: 10;
+}
+
+
+
+
+
+
+
